@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Developer: Samuel A:
 Aspiring Java Full-Stack Developer and proactive Electronics and Communication Engineering student 
 with hands-on experience in core Java, JDBC, Servlets, JSP, HTML, CSS, Bootstrap, and MySQL database 
 integration. Currently interning at X-workZ ODC, where I developed real-time web applications using 
