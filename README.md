@@ -66,16 +66,14 @@
 
 
 ---
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=samuel150a&theme=default&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=samuel150a&theme=default&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=samuel150a&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 📊 GitHub Stats
+---
+[![](https://visitcount.itsvg.in/api?id=samuel150a&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=samuel150a&show_icons=true&theme=tokyonight" alt="Samuel's GitHub Stats"/>
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=samuel150a&theme=tokyonight" alt="GitHub Streak"/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuel150a&layout=compact&theme=tokyonight" alt="Top Languages"/>
-</p>
 
 ---
 
