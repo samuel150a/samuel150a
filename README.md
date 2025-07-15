@@ -1,71 +1,12 @@
-<h1 align="center">Hi 👋, I'm Samuel A</h1>
-<h3 align="center">🚀 Software Developer | Java Full Stack Enthusiast</h3>
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22D3EE&center=true&vCenter=true&width=450&lines=Java+Fullstack+Developer;Spring+Boot+Expert;Database+Specialist;Clean+Coder;IoT+Innovator" alt="Typing SVG" />
-</div>
-
----
-
-## 💫 About Me
-
-🎓 Final year B.E. student in Electronics and Communication Engineering  
-💡 Passionate about backend development, data-driven systems & automation  
-🧠 Skilled in Java, Spring Boot, MySQL, MVC architecture, and clean coding  
-💼 Currently interning at X-workZ ODC as a Java Full Stack Developer  
-🌱 Always learning something new — currently sharpening DSA and Spring MVC  
-
----
-
-## 🛠️ Tech Stack
-
-### 👨‍💻 Backend
-<div align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SpringBoot-F2F4F9?style=for-the-badge&logo=spring-boot"/>
-  <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JPA-FF5722?style=for-the-badge&logoColor=white"/>
-</div>
-
-### 🗄️ Databases
-<div align="center">
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
-</div>
-
-### 🌐 Frontend
-<div align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-</div>
-
-### 🔧 Tools & DevOps
-<div align="center">
-  <img src="https://img.shields.io/badge/Git-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-</div>
-
----
-## 📄 My Resume
-
-<div align="center">
-  <a href="https://github.com/samuel150a/Resume./blob/main/Toronto-Samuel%20A_ResumeWk-com.pdf" target="_blank">
-    <img src="https://img.shields.io/badge/View%20Resume-PDF-38BDF8?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
-  </a>
-</div>
+# 💫 About Me:
+Am Samuel Currently pursuing Electronics and communication Engineering
 
 
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](linkedin.com/in/linkedin.com/in/samuel-a-978182285) 
 
-
----
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=samuel150a&theme=default&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=samuel150a&theme=default&hide_border=false)<br/>
@@ -74,32 +15,4 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=samuel150a&icon=0&color=0)](https://visitcount.itsvg.in)
 
-
----
-
-## 🌐 Connect With Me
-
-<p align="center">
-  <a href="mailto:samuelofficial184@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/samuel-a-978182285"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/samuel150a"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://leetcode.com/u/Samuel771/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
-</p>
-
----
-
-## 🧠 Fun Facts
-
-- 🧪 Final year project: Tree-Climbing Robot for Disease Detection using CNN  
-- 🔥 Built Olympic Registration Portal (Servlet + JDBC + MySQL + MVC)  
-- 🌍 Encea Website Editor — [Click to Visit](https://kvgcommitteeb.org/kvgce/ec/encea/stuent_corner/)  
-- 🗣️ Languages: Kannada, English, Hindi, Telugu, Tamil  
-- ⚽ Interests: Cricket, Volleyball | NSS Volunteer | Committee Leader  
-
----
-
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=samuel150a&label=Profile%20Views&color=38BDF8&icon=5&pretty=true" />
-</p>
-
-<!-- Created with 💙 by Samuel A using ChatGPT + GPRM -->
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
