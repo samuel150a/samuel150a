@@ -1,6 +1,8 @@
 # 💫 About Me:
-Am Samuel Currently pursuing Electronics and communication Engineering
-
+Aspiring Java Full-Stack Developer and proactive Electronics and Communication Engineering student 
+with hands-on experience in core Java, JDBC, Servlets, JSP, HTML, CSS, Bootstrap, and MySQL database 
+integration. Currently interning at X-workZ ODC, where I developed real-time web applications using 
+the MVC architecture.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](linkedin.com/in/linkedin.com/in/samuel-a-978182285) 
