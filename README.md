@@ -58,10 +58,11 @@
 ## 📄 My Resume
 
 <div align="center">
-  <a href="https://github.com/samuel150a/your-repo-name/blob/main/Toronto-Samuel%20A_ResumeWk-com.pdf?raw=true" target="_blank">
+  <a href="https://github.com/samuel150a/Resume./raw/main/Toronto-Samuel%20A_ResumeWk-com.pdf" target="_blank">
     <img src="https://img.shields.io/badge/View%20Resume-PDF-38BDF8?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
   </a>
 </div>
+
 
 ---
 
