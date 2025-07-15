@@ -2,7 +2,7 @@
 Hi, I'm Samuel — currently pursuing Electronics and Communication Engineering.
 
 ## 📄 Resume:
-[![Resume](https://img.shields.io/badge/Resume-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://your-resume-link.com) <!-- Replace with your actual resume URL -->
+[![Resume](https://img.shields.io/badge/Resume-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://kvgcommitteeb.org/kvgce/ec/encea/stuent_corner/) <!-- You can replace this with another resume hosting link if preferred -->
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/samuel-a-978182285)  
